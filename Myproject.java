@@ -10,5 +10,7 @@ package com.mycompany.myproject;
  * @author Best
  */
 public class Myproject {
-    
+    public static void main(String[] args){
+            System.out.println("Hello Worlds!");
+    }
 }
